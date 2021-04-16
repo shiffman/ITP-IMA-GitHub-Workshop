@@ -5,3 +5,6 @@ A repo for the ITP / IMA Code of Conduct GitHub repo
 ## Movie/TV/Book recommendations
 
 * Check out the show WandaVision on Disney+!
+
+### Books
+* Roadside Picnic by Arkady and Boris Strugatsky
